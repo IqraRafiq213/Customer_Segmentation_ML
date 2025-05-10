@@ -46,9 +46,3 @@ Explore how different features impact customer segmentation
 
 Determine an optimal number of clusters for meaningful segmentation
 
-📂 Files
-customer_segmentation.ipynb: Jupyter Notebook with the full code and analysis
-
-data/: Folder containing the original dataset
-
-plots/: Contains generated elbow and silhouette plots for cluster evaluation
